@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Tourism in Petra",
+      "user": "Nidal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Petra_%2C_Al-Khazneh_2.jpg/2238px-Petra_%2C_Al-Khazneh_2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tourism in Petra",
+      "user": "Nidal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Petra_%2C_Al-Khazneh_2.jpg/2238px-Petra_%2C_Al-Khazneh_2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tourism in Petra",
+      "user": "Nidal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Petra_%2C_Al-Khazneh_2.jpg/2238px-Petra_%2C_Al-Khazneh_2.jpg"
+    },
+    {
+      "title": "hfgbdf",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Petra_%2C_Al-Khazneh_2.jpg/2238px-Petra_%2C_Al-Khazneh_2.jpg",
+      "description": "fdsgchvjnm,",
+      "id": 4
+    },
+    {
+      "title": "hfgbdf",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Petra_%2C_Al-Khazneh_2.jpg/2238px-Petra_%2C_Al-Khazneh_2.jpg",
+      "description": "ghjmgnfxbvzxcz",
+      "id": 5
+    },
+    {
+      "title": "hfgbdf",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Petra_%2C_Al-Khazneh_2.jpg/2238px-Petra_%2C_Al-Khazneh_2.jpg",
+      "description": "nmbtrfgcv ",
+      "id": 6
+    }
+  ]
+}
